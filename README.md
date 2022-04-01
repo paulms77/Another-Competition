@@ -1,2 +1,4 @@
-# another-competition
-Other competitions besides Dacon,Kaggle
+# Kaggle, Dacon 이외에 다른 프로젝트들을 기록해두는 공간
++ 해커톤 공모전
++ 팀프로젝트
++ 
