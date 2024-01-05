@@ -4,5 +4,5 @@
   - AI Factory & ETRI & KT
 + Fake or Real: AI 생성 이미지 판별 경진대회 - GAN 실험
   - AI CONNECT & 마인즈앤컴퍼니
-+ Synthetic AKI data Challenge 2023 - 수상 예정
++ Synthetic AKI data Challenge 2023 - 최종 2위 우수상
   - MAIC & 서울대학교병원
